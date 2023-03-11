@@ -1,0 +1,21 @@
+## Please fill out the input Excel file name in the square brackets on the next line; leading and trailing spaces are ok.
+input_excel_file_name = [  no_empty_bids_test.xlsx ]
+## Please fill out the bid multiplier factor in the square brackets on the next line; leading and trailing spaces are ok.
+bid_multiplier_factor = [ 0.95  ]
+## Please fill out the targeted portfolio names below; one portfolio name per line; 
+## leading and trailing spaces are ok; leading and trailing empty lines as well as empty lines in between are also ok. 
+asd
+sdas
+csada
+csdsa
+   00A96 Rain Poncho ACOS25 
+
+03013 OxfordMoving ACOS30
+
+
+
+
+
+
+
+
